@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img src="../assets/bored_owls.png" height=400 width=400 align=center />
 </>
 
