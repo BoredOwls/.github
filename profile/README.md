@@ -4,4 +4,7 @@
 
 <h1 align=center>BoredOwls</h1>
 
+we're a bunch of very bored engineers building whatever weird, shiny idea wanders into our heads.
+
+---
 
